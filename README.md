@@ -20,9 +20,9 @@ This repository contains **two Magisk modules** designed to reduce **idle batter
     
 
 Both modules work by controlling the **Wi-Fi interface multicast flag**, which directly affects:
-- `WifiMulticastOn`
 - Radio wakeups (e.g. `dhdpcie_host_wake`)
 - Screen-off idle drain
+- Doze being interrupted
 
 Root (Magisk) is required.
 

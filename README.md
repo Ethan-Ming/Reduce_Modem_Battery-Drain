@@ -1,6 +1,18 @@
 #  RMBD (Magisk Modules)
 
+[![中文](https://img.shields.io/badge/ZH-中文說明-red.svg)](https://github.com/Ethan-Ming/Reduce_Modem_Battery-Drain/blob/main/%E8%AE%80%E6%88%91.md)
+      
+    
+    
+      
+    
+      
 This repository contains **two Magisk modules** designed to reduce **idle battery drain caused by Wi-Fi multicast traffic** on Android devices (especially Pixels), while preserving usability for discovery-based features like **Chromecast** and **smart-home setup**.
+      
+    
+    
+      
+    
       
     
     

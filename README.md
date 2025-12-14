@@ -1,6 +1,11 @@
 #  RMBD (Magisk Modules)
 
 This repository contains **two Magisk modules** designed to reduce **idle battery drain caused by Wi-Fi multicast traffic** on Android devices (especially Pixels), while preserving usability for discovery-based features like **Chromecast** and **smart-home setup**.
+      
+    
+    
+      
+    
 
 Both modules work by controlling the **Wi-Fi interface multicast flag**, which directly affects:
 - `WifiMulticastOn`
@@ -109,11 +114,6 @@ These modules fix that.
    - `RMBD_screen_aware.zip` take slight hit in battery but keep smarthome discovery and chromecast working
 2. Open **Magisk**
 3. Go to **Modules → Install from storage**
-      
-    
-    
-      
-    
 4. Select the ZIP
 5. Reboot
 

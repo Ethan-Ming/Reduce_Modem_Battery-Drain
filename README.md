@@ -86,10 +86,10 @@ These modules fix that.
 
 | Use case | Recommended module |
 |------|------------------|
-| Maximum battery life | **WiFi Multicast Killer** |
-| Chromecast / smart-home user | **Screen-Aware Control** |
+| Maximum battery life | **RMBD** |
+| Chromecast / smart-home user | **RMBD_screen_aware** |
 | Mostly idle phone | **Either** |
-| Forgetful about toggles | **Screen-Aware Control** |
+| Forgetful about toggles | **RMBD_screen_aware** |
 
 ---
 

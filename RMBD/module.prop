@@ -1,0 +1,6 @@
+id=multicast-killer
+name=RMBD (Reduce Modem Battery Drain)
+version=1.0
+versionCode=1
+author=Ethan-Ming
+description=Reduce idle battery drain caused by radio, Toggle OFF in Magisk to temporary allow device discovery & chromecast.

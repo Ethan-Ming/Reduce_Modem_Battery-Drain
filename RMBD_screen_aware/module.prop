@@ -1,0 +1,6 @@
+id=multicast_screen_aware
+name=RMBD (Screen-Aware)
+version=1.0
+versionCode=1
+author=Ethan-Ming
+description=Disable dhdpcie_host when screen is off, re-enable when screen is on
